@@ -17,7 +17,6 @@ This project allows you to perform domain lookups, HTTP requests, regex searches
 ```bash
 git clone https://github.com/ruzgarcyber/WindOSINT
 cd WindOSINT
-pip install -r requirements.txt  # If any additional packages are needed
 ```
 
 ## Usage Example
